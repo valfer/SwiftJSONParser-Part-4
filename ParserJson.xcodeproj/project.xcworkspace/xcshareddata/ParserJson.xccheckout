@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C8ABF745-8BFC-40BD-BB9C-6F9CE7B92FB7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParserJson</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>046919545520337D2EEE9863BE246D1CD081263B</key>
+		<string>https://github.com/valfer/SwiftJSONParser-Part-3.git</string>
+		<key>4BF8611E0CB035755645F760F5FE9F266FEDAC71</key>
+		<string>https://github.com/valfer/SwiftJSONParser-Part-2.git</string>
+		<key>F66FD877EF5AD08709DA10E778CC736E35834C5D</key>
+		<string>https://github.com/valfer/SwiftJSONParser-Part-4.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParserJson.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>046919545520337D2EEE9863BE246D1CD081263B</key>
+		<string>../../../SwiftJSONParser-Part-3</string>
+		<key>4BF8611E0CB035755645F760F5FE9F266FEDAC71</key>
+		<string>../../../SwiftJSONParser-Part-2</string>
+		<key>F66FD877EF5AD08709DA10E778CC736E35834C5D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/valfer/SwiftJSONParser-Part-4.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F66FD877EF5AD08709DA10E778CC736E35834C5D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4BF8611E0CB035755645F760F5FE9F266FEDAC71</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftJSONParser-Part-2</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>046919545520337D2EEE9863BE246D1CD081263B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftJSONParser-Part-3</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F66FD877EF5AD08709DA10E778CC736E35834C5D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftJSONParser-Part-4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

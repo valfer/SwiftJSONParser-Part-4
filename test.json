@@ -1,0 +1,234 @@
+[
+  {
+    "titolo":"aquilone",
+    "autore":"Mario Rossi",
+    "latitudine":41.9113,
+    "longitudine":12.484843,
+    "data":"1-1-2001",
+    "descr":"L'aquilone è un oggetto più pesante dell'aria vincolato a terra da un filo, che può volare sfruttando la forza di portanza generata dal vento."
+  },
+  {
+    "titolo":"bianco",
+    "autore":"Roberto Centoni",
+    "latitudine":41.912609,
+    "longitudine":12.436391,
+    "data":"4-10-2002",
+    "descr":"Il bianco è un colore con alta luminosità ma senza tinta. Più precisamente contiene tutti i colori dello spettro elettromagnetico ed è chiamato anche colore acromatico. Il nero è l'assenza di colori."
+  },
+  {
+    "titolo":"bicchiere",
+    "autore":"Maria Vittoria Verdi",
+    "latitudine":41.904321,
+    "longitudine":12.47896,
+    "data":"5-4-2011",
+    "descr":"Il bicchiere è un contenitore per bevande adatto per essere portato alla bocca utilizzando una mano. Il bicchiere è tipicamente realizzato in vetro, ma ne esistono anche in plastica. Esiste una grande varietà di forme per i bicchieri, anche a seconda del tipo di bevanda: classico, da vino rosso, da vino bianco, da alcolici ecc. Ne esistono anche di decorati e di colorati con decorazioni, talvolta in rilievo."
+  },
+  {
+    "titolo":"brasil",
+    "autore":"Roberto Centoni",
+    "latitudine":-5.791238,
+    "longitudine":-35.204369,
+    "data":"11-7-2012",
+    "descr":"Il Brasile (nome ufficiale in portoghese República Federativa do Brasil, Repubblica Federale del Brasile) è una repubblica federale dell'America Meridionale. Con una superficie stimata di oltre 8,5 milioni di km², è il quinto paese più grande del mondo per superficie totale (pari al 47% del territorio sudamericano)[4]. È bagnato dall'Oceano Atlantico a est, a nord confina con il dipartimento francese d'oltremare della Guyana francese, Suriname, Guyana e Venezuela, a nord-ovest con la Colombia, a ovest con il Perù e la Bolivia, a sud-est con il Paraguay e l'Argentina, ed a sud con l'Uruguay. Confina con tutti i paesi del Sud America, tranne Ecuador e Cile[5]."
+  },
+  {
+    "titolo":"catene",
+    "autore":"Adele Galli",
+    "latitudine":42.903744,
+    "longitudine":11.633896,
+    "data":"20-9-2013",
+    "descr":"Le catene da neve sono speciali catene che si applicano tramite un sistema di ganci alle ruote motrici di un veicolo, per aumentare la presa sulla neve, fango, strade bianche (ghiaia) e, se sono del tipo rompighiaccio, anche sul ghiaccio. Tra i principali produttori europei menzioniamo: Veriga, Weissenfels, Konig, Rud, Pewag, Maggi."
+  },
+  {
+    "titolo":"convento",
+    "autore":"Mario Rossi",
+    "latitudine":43.697293,
+    "longitudine":11.823936,
+    "data":"22-8-2005",
+    "descr":"Un convento è un complesso residenziale tipico dell'organizzazione comunitaria di vita consacrata cattolica e ortodossa."
+  },
+  {
+    "titolo":"fiore",
+    "autore":"Maria Vittoria Verdi",
+    "latitudine":45.481559,
+    "longitudine":9.107612,
+    "data":"1-2-2004",
+    "descr":"Il fiore è l'organo riproduttivo delle Angiosperme, nel quale si sviluppano i gametofiti, avviene la fecondazione e si sviluppa il seme."
+  },
+  {
+    "titolo":"fondale",
+    "autore":"Maria Vittoria Verdi",
+    "latitudine":-4.767362,
+    "longitudine":55.484283,
+    "data":"8-11-2003",
+    "descr":"La descrizione del fondo del mare, cioè la topografia del fondo marino, si ottiene misurando le profondità rispetto ad un livello di riferimento. La distribuzione delle profondità del mare viene indicata su carte batimetriche ove si tracciano le isobate. La forma o morfologia del fondo marino risulta molto irregolare anche se i declivi sono più dolci rispetto alle catene montuose terrestri."
+  },
+  {
+    "titolo":"laghetto",
+    "autore":"Roberto Centoni",
+    "latitudine":43.717768,
+    "longitudine":11.821619,
+    "data":"4-12-2001",
+    "descr":"Un lago (o bacino lacustre) è una grande massa per lo più d'acqua dolce raccolta nelle cavità terrestri. I laghi di grosse dimensioni sono alle volte chiamati \"mari interni\", mentre talvolta i piccoli mari sono chiamati laghi. Due esempi sono: il Grande Lago Salato ed il Mar Morto."
+  },
+  {
+    "titolo":"luce",
+    "autore":"Adele Galli",
+    "latitudine":41.407812,
+    "longitudine":14.619706,
+    "data":"23-4-2001",
+    "descr":"Il termine luce (dal latino lux) si riferisce alla porzione dello spettro elettromagnetico visibile dall'occhio umano, approssimativamente compresa tra 400 e 700 nanometri di lunghezza d'onda, ovvero tra 790 e 435 THz di frequenza. Questo intervallo coincide con il centro della regione spettrale della luce emessa dal Sole che riesce ad arrivare al suolo attraverso l'atmosfera. I limiti dello spettro visibile all'occhio umano non sono uguali per tutte le persone, ma variano soggettivamente e possono raggiungere i 720 nanometri, avvicinandosi agli infrarossi, e i 380 nanometri avvicinandosi agli ultravioletti. La presenza contemporanea di tutte le lunghezze d'onda visibili, in quantità proporzionali a quelle della luce solare, forma la luce bianca."
+  },
+  {
+    "titolo":"mare",
+    "autore":"Mario Rossi",
+    "latitudine":38.89631,
+    "longitudine":8.88269,
+    "data":"2-5-2001",
+    "descr":"Il mare è una vasta distesa di acqua salata convergente con i continenti e connessa con un oceano. Lo stesso termine è alle volte usato per indicare laghi, normalmente salati, che non hanno sbocchi sull'oceano come ad esempio il Mar Caspio, il Mar Morto ed il Mar di Galilea. Il termine mare è usato anche come sinonimo di oceano quando esprime un concetto generico, per esempio quando si parla dei mari tropicali o dell'acqua marina riferendosi a quella oceanica in generale."
+  },
+  {
+    "titolo":"nera",
+    "autore":"Marcello Dollo",
+    "latitudine":41.461993,
+    "longitudine":14.389597,
+    "data":"4-6-2010",
+    "descr":"All'Alpe d'Huez c'è una pista nera lunga 18 chilometri che parte da 3300 metri d'altitudine fino ad arrivare 1500 metri: Sarenne. È la più lunga pista nera del mondo."
+  },
+  {
+    "titolo":"neve",
+    "autore":"Carlo Massi",
+    "latitudine":41.461993,
+    "longitudine":14.389597,
+    "data":"15-12-2011",
+    "descr":"In meteorologia la neve è una configurazione di precipitazione atmosferica nella forma di acqua ghiacciata cristallina che consiste in una moltitudine di minuscoli cristalli di ghiaccio tutti aventi di base una simmetria esagonale e spesso, anche una geometria frattale, ma ognuno di tipo diverso e spesso aggregati tra loro in maniera casuale a formare fiocchi di neve. Dal momento che è composta da piccole parti grezze è un materiale granulare. Ha una struttura aperta ed è quindi soffice, a meno che non sia sottoposta ad una pressione esterna. La disciplina che studia le caratteristiche fisico-chimiche della neve in relazione all'ambiente è la nivologia."
+  },
+  {
+    "titolo":"nuvole",
+    "autore":"Maria Vittoria Verdi",
+    "latitudine":41.915244,
+    "longitudine":12.433506,
+    "data":"17-1-2013",
+    "descr":"In meteorologia una nuvola, nel linguaggio scientifico chiamata più comunemente nube, è un'idrometeora costituita da minute particelle d'acqua condensata e/o cristalli di ghiaccio, sospese per galleggiamento nell'atmosfera e solitamente non a contatto con il suolo.[1] La branca della meteorologia che studia le nuvole e i fenomeni ad esse collegati è detta nefologia."
+  },
+  {
+    "titolo":"palloni",
+    "autore":"Zen Betti",
+    "latitudine":43.249954,
+    "longitudine":11.817162,
+    "data":"18-2-1998",
+    "descr":"Un pallone da calcio è un pallone sferico utilizzato per poter disputare gli incontri di calcio. Le prime specifiche per la realizzazione di un pallone da calcio furono stabilite nel 1863 dalla Football Association (la federazione calcistica inglese) e revisionate nel 1872, rimanendo essenzialmente immutate sino ai giorni nostri."
+  },
+  {
+    "titolo":"panorama",
+    "autore":"Adele Galli",
+    "latitudine":41.909416,
+    "longitudine":12.437936,
+    "data":"3-3-2014",
+    "descr":"La tecnica del panorama in pittura rappresenta un soggetto su un piano obliquo rispecchio all'occhio dell'osservatore, realizzata con espedienti prospettici che consistono nello schiacciare le dimensioni, oppure attenuare i colori in rapporto alla distanza. L'osservatore tende, automaticamente, a ricostruire la visione nelle sue proporzioni normali."
+  },
+  {
+    "titolo":"pasqua",
+    "autore":"Maria Vittoria Verdi",
+    "latitudine":43.694314,
+    "longitudine":11.812864,
+    "data":"1-4-1997",
+    "descr":"La Pasqua è la principale festività del cristianesimo[1][2]. Essa celebra la risurrezione di Gesù che, secondo le Scritture, è avvenuta nel terzo giorno successivo alla sua morte in croce. La data della Pasqua, variabile di anno in anno secondo i cicli lunari, determina anche la cadenza di altre celebrazioni e tempi liturgici, come la Quaresima e la Pentecoste."
+  },
+  {
+    "titolo":"pratomagno",
+    "autore":"Dario Eoli",
+    "latitudine":43.654956,
+    "longitudine":11.660507,
+    "data":"10-7-2011",
+    "descr":"Il Pratomagno è un gruppo montuoso che si innalza tra il Valdarno superiore e il Casentino a nord-ovest della città di Arezzo; interessa l'omonima provincia e, in piccola parte, la sponda sud-orientale di quella di Firenze."
+  },
+  {
+    "titolo":"rossore",
+    "autore":"Christian Iomine",
+    "latitudine":41.912689,
+    "longitudine":12.436413,
+    "data":"10-6-2013",
+    "descr":"Il rosso è uno dei colori dello spettro percepibile dall'occhio umano. Ha la frequenza minore e, conseguentemente, la lunghezza d'onda più lunga di tutti gli altri colori visibili (tra 630 e 760 nanometri)."
+  },
+  {
+    "titolo":"rovi",
+    "autore":"Adele Galli",
+    "latitudine":41.483119,
+    "longitudine":14.477478,
+    "data":"7-5-1998",
+    "descr":"Si presenta come pianta arbustiva perenne, sarmentosa con fusti aerei a sezione pentagonale lunghi fino a 6 metri ed anche più, provvisti di spine arcuate."
+  },
+  {
+    "titolo":"seggiovia",
+    "autore":"Giuseppe Vintage",
+    "latitudine":46.697022,
+    "longitudine":11.930023,
+    "data":"7-2-2013",
+    "descr":"La seggiovia è un particolare tipo di impianto di risalita, molto simile ad una teleferica, adibito al trasporto di persone in zone di difficile accesso e con grandi dislivelli altimetrici. Offre una portata oraria superiore alle sciovie."
+  },
+  {
+    "titolo":"tetto",
+    "autore":"Christian Iomine",
+    "latitudine":43.077571,
+    "longitudine":11.678503,
+    "data":"6-10-2010",
+    "descr":"La copertura, o più comunemente tetto (ultimamente dal verbo latino tegere, oppure coprire), ha la funzione di definire la parte superiore dell’edificio e di preservare l’ambiente interno dagli agenti atmosferici e dall'invasione di animali."
+  },
+  {
+    "titolo":"torta",
+    "autore":"Francesco Arella",
+    "latitudine":43.762168,
+    "longitudine":11.243423,
+    "data":"15-3-2010",
+    "descr":"La torta è un prodotto da pasticceria, generalmente di forma rotonda, utilizzata spesso per festeggiare eventi particolari."
+  },
+  {
+    "titolo":"tramonto",
+    "autore":"Marcello Dollo",
+    "latitudine":40.843944,
+    "longitudine":14.251961,
+    "data":"12-4-2009",
+    "descr":"Dal punto di vista strettamente astronomico, il punto sull'orizzonte dal quale al tramonto transita il centro del disco solare corrisponde esattamente alla direzione dell'ovest solo nelle date degli equinozi: ad esempio, nell'emisfero boreale, esso si sposta rispettivamente a nord-ovest nei mesi primaverili ed estivi (raggiungendo il punto più a nord al solstizio d'estate) e a sud-ovest nei mesi autunnali e invernali (analogamente, raggiungendo il punto più a sud al solstizio d'inverno). La zona dell'orizzonte compresa tra il punto più a nord e quello più a sud è detta zona occasa."
+  },
+  {
+    "titolo":"tropici",
+    "autore":"Valerio Ferrucci",
+    "latitudine":-4.51003,
+    "longitudine":55.233657,
+    "data":"1-9-2006",
+    "descr":"I tropici (dal lat. tropĭcus, a sua volta dal greco τροπικός, tropikόs, rotazione) sono i paralleli di latitudine 23°26'16\" N e S, corrispondenti all'angolo di inclinazione dell'asse terrestre rispetto alla perpendicolare al piano dell'orbita."
+  },
+  {
+    "titolo":"valerio",
+    "autore":"Marcello Dollo",
+    "latitudine":41.462042,
+    "longitudine":14.389705,
+    "data":"13-7-2004",
+    "descr":"Lo sci raccoglie diverse discipline sportive invernali, accomunate dall'uso degli sci come strumento per la percorrenza di distanze su fondi nevosi."
+  },
+  {
+    "titolo":"vaso",
+    "autore":"Marcello Dollo",
+    "latitudine":43.065063,
+    "longitudine":11.722313,
+    "data":"27-2-2007",
+    "descr":"Un vaso è un contenitore aperto, usato per liquidi, solidi, o a scopo decorativo per fiori, etc. Può essere fatto con molti materiali, come la terracotta, la porcellana, la ceramica, il metallo, il legno, il vetro, la plastica, ed essere decorato."
+  },
+  {
+    "titolo":"vento",
+    "autore":"Beppe Ginna",
+    "latitudine":41.93587,
+    "longitudine":12.092844,
+    "data":"31-7-2000",
+    "descr":"Il vento è il movimento di una massa d'aria atmosferica da un'area con alta pressione (anticiclonica) ad un'area con bassa pressione (ciclonica). In genere con tale termine si fa riferimento alle correnti aeree di tipo orizzontale, mentre per quelle verticali si usa generalmente il termine correnti convettive che si originano invece per instabilità atmosferica verticale. Innumerevoli gli autori classici che si sono occupati di questo fenomeno meteorologico[1]. Scrive Lucrezio: \"Esistono dunque di certo, s'anche invisibili, i venti: essi flagellano il mare: essi la terra,le nubi essi, che con improvviso turbine squarciano e spazzano via\"[2]. Per Seneca \"Il vento è aria che spira\"."
+  },
+  {
+    "titolo":"vicolo",
+    "autore":"Christian Iomine",
+    "latitudine":43.065533,
+    "longitudine":11.725756,
+    "data":"11-6-1999",
+    "descr":"Il vicolo o vico (dal latino vicŭlus, diminutivo di vicus, che significa borgo[1]) è una strada urbana secondaria molto stretta. Il più delle volte il vicolo è una zona pedonale circondata da palazzi, spesso all'interno di un tessuto urbano medievale."
+  }
+]
